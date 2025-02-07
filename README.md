@@ -4,16 +4,16 @@ This repository contains various resources for Semester 6, including lab manuals
 
 ## Contents
 
-1. [Lab Manuals](#lab-manuals)
-2. [Previous Year Papers](#previous-year-papers)
-3. [Books to Study](#books-to-study)
+1. Lab Manuals
+2. Previous Year Papers
+3. Books to Study
 
 ## Lab Manuals
 
 This section contains lab manuals for various subjects in Semester 6. Each manual includes detailed instructions and experiments to help you understand the practical aspects of the course.
 
-- [Subject 1 Lab Manual](path/to/subject1/lab/manual)
-- [Subject 2 Lab Manual](path/to/subject2/lab/manual)
+- [CNSL](path/to/subject1/lab/manual)
+- [WAD](path/to/subject2/lab/manual)
 - ...
 
 ## Previous Year Papers
