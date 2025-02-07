@@ -12,9 +12,9 @@ This repository contains various resources for Semester 6, including lab manuals
 
 This section contains lab manuals for various subjects in Semester 6. Each manual includes detailed instructions and experiments to help you understand the practical aspects of the course.
 
-- [CNSL](Labmanual/TE_IT_CNSL_(2019)_LabManual.pdf)
+- [CNSL](Labmanual/TE_IT_CNSL.pdf)
 - [WAD](Labmanual/TE_IT_LP-II_WAD.pdf)
-- [CC](Labmanual/TE_IT_LP-II_CCL_Labmanual.pdf)
+- [CC](Labmanual/TE_IT_LP-II_CCL.pdf)
 - [DSBDA](Labmanual/TE_SEMII_DS&BDA_2019_final.pdf)
 
 ## How to Use
